@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+* 杜大帅哥
+* 杜思源是大帅哥
+* 大帅哥是杜思源
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -15,9 +19,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-* 杜大帅哥
-* 杜思源是大帅哥
-* 大帅哥是杜思源
 
 - Bulleted
 - List
